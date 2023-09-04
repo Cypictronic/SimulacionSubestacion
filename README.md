@@ -25,3 +25,7 @@ Proyecto de simulación de subestación en MATLAB.
  </ul>
 
 * code 
+
+#### Tecnologías Usadas
+
+* [MATLAB](https://www.mathworks.com/products/matlab.html)
