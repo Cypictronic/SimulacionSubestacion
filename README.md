@@ -1,3 +1,3 @@
 # Simulación Subestación
 
-Proyecto de simulación en MATLAB.
+Proyecto de simulación de subestación en MATLAB.
