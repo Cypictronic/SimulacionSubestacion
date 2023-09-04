@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simulación Subestación
 
 <p align="center" >
@@ -5,3 +6,8 @@
 </p>
 
 Proyecto de simulación de subestación en MATLAB.
+=======
+# Simulación Subestación
+
+Proyecto de simulación de subestación en MATLAB.
+>>>>>>> 9448e9e27b109dde429194d4af66eeffaabc41ef
